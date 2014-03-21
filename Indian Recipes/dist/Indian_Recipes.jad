@@ -1,0 +1,8 @@
+MIDlet-1: Indian Recipes,/icon.png,IndianRecipes
+MIDlet-Jar-Size: 1361010
+MIDlet-Jar-URL: Indian_Recipes.jar
+MIDlet-Name: Indian Recipes
+MIDlet-Vendor: Cynthia Wasonga
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
